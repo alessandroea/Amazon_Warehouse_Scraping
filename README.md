@@ -1,10 +1,10 @@
 # Amazon_Warehouse_Scraping
 
-This script aims to scrape Amazon Warehouse and send an email back if there are products whose price matches with the target one.
+## This script aims to scrape Amazon Warehouse and send an email back if there are products whose price matches with the target one.
 
 
 
-The flow of this program:
+### The flow of this program:
 
 1- Setting out the product to search for, the min/max budget for that.
 
